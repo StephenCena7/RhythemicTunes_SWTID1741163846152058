@@ -1,0 +1,212 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Bol Do Na Zara",
+      "singer": "Armaan Malik",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "songUrl": "Songs/Bol Do Na Zara.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Humnava Mere",
+      "singer": "Jubin Nautiyal",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "songUrl": "Songs/Humnava Mere.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": 5,
+      "title": "See You Again",
+      "singer": "Charlie Puth",
+      "genre": "Emotional Pop",
+      "imgUrl": "https://i1.sndcdn.com/artworks-000113226724-pa6thi-t500x500.jpg",
+      "songUrl": "Songs/See You Again.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Tum Hi Ho",
+      "singer": "Arijit Singh",
+      "genre": "Emotional",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/albums/d41WjnWPLq/41Wjz1LOWP/size_m_1712905431.webp",
+      "songUrl": "Songs/Tum Hi Ho.mp3"
+    },
+    {
+      "id": 7,
+      "title": "The Search",
+      "singer": "NF",
+      "genre": "Rap",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/NF_-_The_Search.png",
+      "songUrl": "Songs/The Search.mp3"
+    },
+    {
+      "id": 8,
+      "title": "As It Was",
+      "singer": "Harry Styles",
+      "genre": "Pop",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b46f74097655d7f353caab14",
+      "songUrl": "Songs/As It Was.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Beleiver",
+      "singer": "Imagine Dragons",
+      "genre": "Pop Rock",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/Imagine-Dragons-Believer-art.jpg",
+      "songUrl": "Songs/Believer.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Enemy",
+      "singer": "Imagine Dragons",
+      "genre": "Pop Rock",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/Enemy_Imagine_Dragons.jpg",
+      "songUrl": "Songs/Enemy.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Despacito",
+      "singer": "Luis Fonsi",
+      "genre": "Latin Pop",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Luis_Fonsi_Feat._Daddy_Yankee_-_Despacito_%28Official_Single_Cover%29.png/220px-Luis_Fonsi_Feat._Daddy_Yankee_-_Despacito_%28Official_Single_Cover%29.png",
+      "songUrl": "Songs/Despacito.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Lonely",
+      "singer": "Akon",
+      "genre": "Emotional",
+      "imgUrl": "https://cdn-images.dzcdn.net/images/cover/76e62a7fa8b58436ccfcbe3aa2bb8d18/1900x1900-000000-80-0-0.jpg",
+      "songUrl": "Songs/Lonely.mp3"
+    },
+    {
+      "id": 13,
+      "title": "In Da Club",
+      "singer": "50 Cent",
+      "genre": "Rap",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/50_Cent_-_In_Da_Club_-_CD_cover.jpg",
+      "songUrl": "Songs/In Da Club.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Levitating",
+      "singer": "Dua Lipa",
+      "genre": "Pop",
+      "imgUrl": "https://i.pinimg.com/736x/5f/13/52/5f1352fa06eef7ed8dd0f653178b9f54.jpg",
+      "songUrl": "Songs/Levitating.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Lose Yourself",
+      "singer": "Eminem",
+      "genre": "Rap",
+      "imgUrl": "https://static.stereogum.com/uploads/2022/10/Eminem-Lose-Yourself-1666109360-520x5201-1666540295.jpeg",
+      "songUrl": "Songs/Lose Yourself.mp3"
+    },
+    {
+      "id": 16,
+      "title": "Master the Blaster",
+      "singer": "Bjorn Surrao",
+      "genre": "Reggae",
+      "imgUrl": "https://c.saavncdn.com/231/Master-the-Blaster-From-Master--English-2021-20210115102601-500x500.jpg",
+      "songUrl": "Songs/Master the Blaster.mp3"
+    },
+    {
+      "id": 17,
+      "title": "Maya Nadhi",
+      "singer": "Pradeep Kumar",
+      "genre": "Emotional",
+      "imgUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/9f/c6/659fc6ef-eadd-b30c-36e1-41500e05a933/cover.jpg/1200x1200bf-60.jpg",
+      "songUrl": "Songs/Maya Nadhi.mp3"
+    },
+    {
+      "id": 18,
+      "title": "Petta Theme",
+      "singer": "Anirudh Ravichandran",
+      "genre": "Instrumental Theme",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734f75d075ce6e7e9a68d593ee",
+      "songUrl": "Songs/Petta Theme.mp3"
+    },
+    {
+      "id": 19,
+      "title": "Still DRE",
+      "singer": "Dr Dre , Snoop Dogg",
+      "genre": "Rap",
+      "imgUrl": "https://m.media-amazon.com/images/I/418S3XJ38TL._UF350,350_QL50_.jpg",
+      "songUrl": "Songs/Still DRE.mp3"
+    },{
+      "id": 20,
+      "title": "Without Me",
+      "singer": "Eminem",
+      "genre": "Rap",
+      "imgUrl": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/1900x1900-000000-80-0-0.jpg",
+      "songUrl": "Songs/Without Me.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 1,
+      "title": "Bol Do Na Zara",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Bol Do Na Zara.mp3",
+      "singer": "Armaan Malik",
+      "id": 1
+    },
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 2
+    },
+    {
+      "itemId": 3,
+      "title": "Humnava Mere",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Humnava Mere.mp3",
+      "singer": "Jubin Nautiyal",
+      "id": 3
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 1,
+      "title": "Bol Do Na Zara",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Bol Do Na Zara.mp3",
+      "singer": "Armaan Malik",
+      "id": 1
+    },
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 2
+    }
+  ]
+}

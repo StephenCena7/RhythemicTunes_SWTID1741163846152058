@@ -1,0 +1,91 @@
+/* Sidebar Styles */
+.sidebar {
+  width: 250px; /* Default width for larger screens */
+  height: 100vh;
+  position: fixed;
+  background-color: #121212; /* Dark modern background */
+  color: #ffffff;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+  transition: width 0.3s ease-in-out;
+}
+
+/* Navigation List */
+.sidebar ul {
+  width: 100%;
+  padding: 20px;
+  list-style: none;
+}
+
+.sidebar li {
+  width: 100%;
+  padding: 14px 25px;
+  transition: background 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.sidebar li:hover {
+  background: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  transform: translateX(5px);
+}
+
+/* Sidebar Links */
+.sidebar a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Sidebar Vertical Line */
+.vl {
+  border-left: 2px solid rgba(255, 255, 255, 0.2);
+  height: 100vh;
+  position: absolute;
+  left: 100%;
+}
+
+/* Main Content */
+.content {
+  margin-left: 270px; /* Prevent overlap */
+  padding: 25px;
+  transition: margin-left 0.3s ease-in-out;
+}
+
+/* Responsive Sidebar for Smaller Screens */
+@media (max-width: 768px) {
+  .sidebar {
+      width: 100%; /* Full width on smaller screens */
+      height: auto;
+      position: relative;
+      flex-direction: row;
+      justify-content: space-around;
+      padding: 15px 0;
+  }
+
+  .sidebar ul {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+  }
+
+  .sidebar li {
+      padding: 12px 18px;
+      text-align: center;
+  }
+
+  .content {
+      margin-left: 0; /* Full width when sidebar is horizontal */
+      padding-left: 20px;
+  }
+
+  .vl {
+      display: none; /* Hide vertical line in mobile view */
+  }
+}
